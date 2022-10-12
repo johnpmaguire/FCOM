@@ -1,0 +1,104 @@
+[
+  {
+    "Type":"318",
+    "Body":"text",
+    "Imgage":"url"
+  },
+    {
+    "Type":"319",
+    "Body":"text",
+    "Imgage":"url"
+  },
+    {
+    "Type":"320",
+    "Body":"text",
+    "Imgage":"url"
+  },
+    {
+    "Type":"320N",
+    "Body":"text",
+    "Imgage":"url"
+  },
+    {
+    "Type":"321",
+    "Body":"text",
+    "Imgage":"url"
+  },
+    {
+    "Type":"321N",
+    "Body":"text",
+    "Imgage":"url"
+  },
+ {
+   "Airframe":"G-GATU",
+   "Type":"Airbus A320-232",
+   "TypeCode":"A320",
+   "ModeS":"407022",
+   "Image":"url"
+ },
+ {
+   "Airframe":"G-TTNA",
+   "Type":"Airbus A320-251N",
+   "TypeCode":"A2N0",
+   "ModeS":"407464",
+   "Image":"url"
+ },
+  {
+   "Airframe":"G-TTNA",
+   "Type":"Airbus A320-251N",
+   "TypeCode":"A2N0",
+   "ModeS":"407464",
+   "Image":"url"
+ },
+  {
+    "Title": "BAVirtual Flight Crew Operating Manual",
+    "LastUpdate": "15 October 2022",
+    "Limitations":"LIM - Limitations Aircraft General",
+    "General": "Aircraft General",
+    "LoadLimitsTitle":"FLIGHT MANOEUVRING LOAD ACCELERATION LIMITS",
+    "LoadLimitsClean": "-1g to +2.5g",
+    "LoadLimitsOther": "0g to +2g",
+    "AirportWindLimitTitle": "AIRPORT OPERATIONS AND WIND LIMITATIONS",
+    "RunwaySlopeTitle":"RUNWAY SLOPE",
+    "RunwaySlopeLimitText": "Runway slope (mean)",
+    "RunwaySlopeLimit":"+-2%",
+    "RunwaySlopeLimitGatu":"+-3%",
+    "RunwayAltitudeTitle":"RUNWAY ALTITUDE",
+    "RunwayAltitudeText":"Runway altitude",
+    "RunwayAltitudeLimit":"9 200 ft",
+    "RunwayAltitudeLimitGATH-GATS":"14 100 ft",
+    "RunwayAltitudeLimitGATU":"12 000 ft",
+    "RunwayWidthTitle":"NOMINAL RUNWAY WIDTH",
+    "RunwayWidthNominalText":"Nominal runway width",
+    "RunwayWidthNominalLimit":"45 m",
+    "RunwayWidthMinimalLimit":"30 m",
+    "WindLimitsTitle": "WIND FOR TAKEOFF AND LANDING",
+    "TakeoffWindLimitText320N321N": "Maximum certified crosswind for takeoff",
+    "TakeoffWindLimit320N321N": "35 kt (gust included)",
+    "LandingWindLimitText320N321N": "Maximum demonstrated crosswind for landing",
+    "LandingWindLimit320N321N": "38 kt (gust included",
+    "TakeoffWindLimit318": "39 kt (gust included)",
+    "TakeoffWindLimit319-320-321C": "38 kt (gust included)",
+    "TakeoffWindlimitNoteText":"Note",
+    "TakeoffWindlimitNote": "The maximum certified crosswind for takeoff is an Airplane Flight Manual (AFM) limitation: it is an engine limitation. Airbus recommends that operators should not intentionally operate in crosswinds that exceed this value",
+     "LandingWindlimitNoteText":"Note",
+    "LandingWindlimitNote": "The maximum demonstrated crosswind value at landing is not an Airplane Flight Manual (AFM) limitation: it is the maximum crosswind condition experienced during the aircraft certification campaign. Airbus recommends that operators should not intentionally operate in crosswinds that exceed this value",
+    "TakeoffTailWindTitle":"TAILWIND TAKEOFF",
+    "TakeoffTailWindText":"Maximum tailwind for takeoff",
+    "TakeoffTailWindLimit10":"10 kt",
+    "TakeoffTailWindLimit15":"15 kt",
+     "LandingTailWindLimit10":"10 kt",
+    "LandingTailWindLimit15":"15 kt",
+    "LandingTailWindlimitNoteText":"Note",  
+    "LandingTailWindlimitNote1":"For maximum tailwind for automatic landing and rollout, refer to Maximum Wind Conditions for ILS/MLS, CATII or CATII and for GLS (if installed) CAT I.",  
+    "LandingTailWindLimitNote2":"For landing with a tailwind greater than 10 kt, FLAPS FULL is recommended.",
+    "PassengerCargoDoorOperationTitle":"PASSENGER AND CARGO DOORS OPERATION",
+     "PassengerCargoDoorOperationNote1":"The following are the wind limitations for passenger and cargo door operation:",
+     "PassengerCargoDoorOperationNote2": "The maximum wind for passenger door operation is 65 kt",
+      "PassengerCargoDoorOperationNote3": "The maximum wind for FWD and AFT cargo door operation is 40 kt (or 50 kt, if the aircraft nose is in to the wind, or if the FWD and AFT cargo doors are on the leeward side)",
+       "PassengerCargoDoorOperationNote4":"The FWD and AFT cargo doors must be closed before the wind speed exceeds 65 kt",
+    
+    "Image": "https://cdn-1.motorsport.com/images/amp/YMdLMxG2/s6/sebastian-vettel-aston-martin-.jpg"
+  }
+ 
+]
